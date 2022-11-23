@@ -198,6 +198,21 @@
       "color": "Pirate Ship",
       "type": "Ship",
       "desc": "Pirate Ship DX from Nanoblock's Advanced Hobby series stands approximately 23,5 cm tall and has 3200 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 5, for ages 15+"
-    }
+    },
+    {
+        "id": 44,
+        "image1": "https://m.media-amazon.com/images/I/71uZiZP-2cL._AC_SX425_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71+wLC4P0rL._AC_SX425_.jpg",
+        "name": "nanoblock - Tower Bridge Deluxe Edition World Famous, Advanced Hobby Series Building Kit",
+        "price": "Rp1.250.000",
+        "diskon": "-6%",
+        "lprice": "Rp1.300.000",
+        "brand": "Nanoblock",
+        "theme": "Architecture",
+        "material": "Plastic",
+        "color": "Tower Bridge",
+        "type": "Tower Bridge",
+        "desc": "Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This tower bridge model is based at a Level 5, for ages 15+. Only product with affixed official Bluefin label has been thoroughly tested for safety and meets all North American consumer product safety regulations and entitles the purchaser to product support assistance"
+      }
   ]
 }
