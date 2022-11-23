@@ -121,36 +121,6 @@
       "color": "Polar Bear",
       "type": "Bear",
       "desc": "Polar bear from Nanoblock's Collection series stands approximately 10 cm tall and has 220 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
-    },
-    {
-      "id": 24,
-      "image1": "https://m.media-amazon.com/images/I/71-MWHfngEL._AC_SX679_.jpg",
-      "image2": "https://m.media-amazon.com/images/I/61nFjO3HW9L._AC_SY741_.jpg",
-      "name": "Nanoblock Animals - Koala, Nanoblock Collection Series",
-      "price": "Rp550.000",
-      "diskon": "",
-      "lprice": "",
-      "brand": "Nanoblock",
-      "theme": "Animal",
-      "material": "Plastic",
-      "color": "Koala",
-      "type": "Koala",
-      "desc": "Koala from Nanoblock's Collection series stands approximately 5,6 cm tall and has 145 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 15+"
-    },
-    {
-      "id": 25,
-      "image1": "https://m.media-amazon.com/images/I/61tztc7MUvS._AC_SX679_.jpg",
-      "image2": "",
-      "name": "nanoblock - Fishbowl Cat [Cats], Collection Series Building Kit, Multicolored, NBC_272",
-      "price": "Rp270.000",
-      "diskon": "",
-      "lprice": "",
-      "brand": "Nanoblock",
-      "theme": "Animal",
-      "material": "Plastic",
-      "color": "Fishbowl Cat",
-      "type": "Cat",
-      "desc": "Fishbowl Cat from Nanoblock's Mini Collection series stands approximately 5,5 cm tall and has 190 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
     }
   ],
   "specials": [
@@ -198,36 +168,6 @@
       "color": "Pirate Ship",
       "type": "Ship",
       "desc": "Pirate Ship DX from Nanoblock's Advanced Hobby series stands approximately 23,5 cm tall and has 3200 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 5, for ages 15+"
-    },
-    {
-      "id": 44,
-      "image1": "https://m.media-amazon.com/images/I/71uZiZP-2cL._AC_SX425_.jpg",
-      "image2": "https://m.media-amazon.com/images/I/71+wLC4P0rL._AC_SX425_.jpg",
-      "name": "nanoblock - Tower Bridge Deluxe Edition World Famous, Advanced Hobby Series Building Kit",
-      "price": "Rp1.250.000",
-      "diskon": "-6%",
-      "lprice": "Rp1.300.000",
-      "brand": "Nanoblock",
-      "theme": "Architecture",
-      "material": "Plastic",
-      "color": "Tower Bridge",
-      "type": "Tower Bridge",
-      "desc": "Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This tower bridge model is based at a Level 5, for ages 15+. Only product with affixed official Bluefin label has been thoroughly tested for safety and meets all North American consumer product safety regulations and entitles the purchaser to product support assistance"
-    },
-    {
-      "id": 45,
-      "image1": "https://m.media-amazon.com/images/I/41IQsDD0-hL._AC_SX425_.jpg",
-      "image2": "https://m.media-amazon.com/images/I/51f5S7cBHDL._AC_SX425_.jpg",
-      "name": "nanoblock - Nanaoblock World [Space], Nanoblock Advanced Hobby Series Building Kit",
-      "price": "Rp800.000",
-      "diskon": "",
-      "lprice": "",
-      "brand": "Nanoblock",
-      "theme": "Space",
-      "material": "Plastic",
-      "color": "Nanoblock World",
-      "type": "Globe",
-      "desc": "Nanoblock World from Advanced Hobby series stands approximately 14 cm tall and has 880 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
     }
   ]
 }
