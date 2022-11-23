@@ -106,7 +106,22 @@
       "color": "Great White Shark",
       "type": "fish",
       "desc": "Great white shark from Nanoblock's Collection series stands approximately 4,9 cm tall and has 130 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
-    }
+    },
+    {
+        "id": 23,
+        "image1": "https://m.media-amazon.com/images/I/51RQzwt-HiL._AC_SX679_.jpg",
+        "image2": "https://m.media-amazon.com/images/I/71HbC2nqqSL._AC_SX425_.jpg",
+        "name": "Nanoblock Animals - Polar Bear, Nanoblock Collection Series",
+        "price": "Rp190.000",
+        "diskon": "",
+        "lprice": "",
+        "brand": "Nanoblock",
+        "theme": "Animal",
+        "material": "Plastic",
+        "color": "Polar Bear",
+        "type": "Bear",
+        "desc": "Polar bear from Nanoblock's Collection series stands approximately 10 cm tall and has 220 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
+      }
   ],
   "specials": [
     {
