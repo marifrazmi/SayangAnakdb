@@ -12,8 +12,8 @@
       "theme": "Anime",
       "material": "Plastic",
       "color": "Pikachu",
-      "cartoon char": "Pikachu",
-      "desc1": "Pikachu From Nanoblock'S Pokemon Collection Series Stands Approximately 4,5 cm Tall And Has 120 Pieces. Difficulty: Based On A Scale From 1 To 5. 1 Being The Easiest And 5 Being Most Advanced. This Model Is Based At A Level 2, For Ages 8+"
+      "type": "Pikachu",
+      "desc": "Pikachu From Nanoblock'S Pokemon Collection Series Stands Approximately 4,5 cm Tall And Has 120 Pieces. Difficulty: Based On A Scale From 1 To 5. 1 Being The Easiest And 5 Being Most Advanced. This Model Is Based At A Level 2, For Ages 8+"
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
       "theme": "Anime",
       "material": "Plastic",
       "color": "Orange",
-      "cartoon char": "Charmander",
+      "type": "Charmander",
       "desc": "Charmander from Nanoblock's Pokemon Collection series stands approximately 4 cm tall and has 110 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 8+"
     },
     {
@@ -42,7 +42,7 @@
       "theme": "Anime",
       "material": "Plastic",
       "color": "Bulbasaur",
-      "cartoon char": "Bulbasaur",
+      "type": "Bulbasaur",
       "desc": "Nanoblocks are a superior building experience with greater challenge, sophistication and detail than any other construction set. The Smaller the Brick the Better the Build; Bulbasaur sets come with detailed step by step instructions, for ages 8+"
     },
     {
@@ -57,7 +57,7 @@
       "theme": "Anime",
       "material": "Plastic",
       "color": "Squirtle",
-      "cartoon char": "Squirtle",
+      "type": "Squirtle",
       "desc": "Pokemon appeared to nano block and Squirtle came over 120 pieces!. Pokemon Character Zenigame."
     },
     {
@@ -72,7 +72,7 @@
       "theme": "Anime",
       "material": "Plastic",
       "color": "Eevee",
-      "cartoon char": "Eevee",
+      "type": "Eevee",
       "desc": "Build your favorite Pokemon character in astonishing detail with Nanoblocks, the original micro-sized building block, collect all 13. The Smaller the Brick the Better the Build; Eevee sets come with detailed step by step instructions, for ages 8+"
     },
     {
