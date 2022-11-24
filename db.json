@@ -1,5 +1,5 @@
 {
-  "pokemons": [
+  "toys": [
     {
       "id": 1,
       "image1": "https://m.media-amazon.com/images/I/51NjtYpTpDL._AC_CR0%2C0%2C0%2C0_SX410_SY308_.jpg",
@@ -74,11 +74,9 @@
       "color": "Eevee",
       "cartoon char": "Eevee",
       "desc": "Build your favorite Pokemon character in astonishing detail with Nanoblocks, the original micro-sized building block, collect all 13. The Smaller the Brick the Better the Build; Eevee sets come with detailed step by step instructions, for ages 8+"
-    }
-  ],
-  "animals": [
+    },
     {
-      "id": 21,
+      "id": 6,
       "image1": "https://m.media-amazon.com/images/I/51PpNZz-01S._AC_SX425_.jpg",
       "image2": "https://m.media-amazon.com/images/I/612UZT9Ff9S._AC_SX425_.jpg",
       "name": "nanoblock - Marlin [Sea Friends], nanoblock Collection Series Building Kit",
@@ -93,7 +91,7 @@
       "desc1": "Marlin from Nanoblock's Collection series stands approximately 14 cm tall and has 190 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 8+"
     },
     {
-      "id": 22,
+      "id": 7,
       "image1": "https://m.media-amazon.com/images/I/51+73kXpt8L._AC_SX679_.jpg",
       "image2": "https://m.media-amazon.com/images/I/71N5kMpOmWL._AC_SY679_.jpg",
       "name": "nanoblock - Great White Shark [Sea Friends], Nanoblock Collection Series Building Kit",
@@ -108,7 +106,7 @@
       "desc": "Great white shark from Nanoblock's Collection series stands approximately 4,9 cm tall and has 130 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
     },
     {
-      "id": 23,
+      "id": 8,
       "image1": "https://m.media-amazon.com/images/I/51RQzwt-HiL._AC_SX679_.jpg",
       "image2": "https://m.media-amazon.com/images/I/71HbC2nqqSL._AC_SX425_.jpg",
       "name": "Nanoblock Animals - Polar Bear, Nanoblock Collection Series",
@@ -123,7 +121,7 @@
       "desc": "Polar bear from Nanoblock's Collection series stands approximately 10 cm tall and has 220 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
     },
     {
-        "id": 24,
+        "id": 9,
         "image1": "https://m.media-amazon.com/images/I/71-MWHfngEL._AC_SX679_.jpg",
         "image2": "https://m.media-amazon.com/images/I/61nFjO3HW9L._AC_SY741_.jpg",
         "name": "Nanoblock Animals - Koala, Nanoblock Collection Series",
@@ -138,7 +136,7 @@
         "desc": "Koala from Nanoblock's Collection series stands approximately 5,6 cm tall and has 145 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 15+"
       },
     {
-        "id": 25,
+        "id": 10,
         "image1": "https://m.media-amazon.com/images/I/61tztc7MUvS._AC_SX679_.jpg",
         "image2": "",
         "name": "nanoblock - Fishbowl Cat [Cats], Collection Series Building Kit, Multicolored, NBC_272",
@@ -151,11 +149,9 @@
         "color": "Fishbowl Cat",
         "type": "Cat",
         "desc": "Fishbowl Cat from Nanoblock's Mini Collection series stands approximately 5,5 cm tall and has 190 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
-      }
-  ],
-  "specials": [
+      },
     {
-      "id": 41,
+      "id": 11,
       "image1": "https://m.media-amazon.com/images/I/61QRvcOrBjL._AC_SX679_.jpg",
       "image2": "https://m.media-amazon.com/images/I/71unRls5-RL._AC_SX425_.jpg",
       "name": "Nanoblock - World Famous - Eiffel Tower Deluxe Edition, Nanoblock Advanced Hobby Series",
@@ -170,7 +166,7 @@
       "desc1": "Eiffel Tower Deluxe Edition from Nanoblock's Advanced Hobby series stands approximately 9,6 cm tall and has 2500 pieces. Difficulty: Based on a scale from 1 to 5: 1 being the easiest and 5 being most advanced, this model is based at a Level 4 and is for ages 15+. This kit features all the details one would expect and also include detailed instructions"
     },
     {
-      "id": 42,
+      "id": 12,
       "image1": "https://m.media-amazon.com/images/I/71bOd1T9IZL._AC_SX425_.jpg",
       "image2": "https://m.media-amazon.com/images/I/71PbMDTdjnL._AC_SX425_.jpg",
       "name": "nanoblock - Bonsai Matsu Deluxe Edition World Famous, Advanced Hobby Series Building Kit, Green (NB039)",
@@ -185,7 +181,7 @@
       "desc": "Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This Bonsai model is based at a Level 5, for ages 15+. Only product with affixed official Bluefin label has been thoroughly tested for safety and meets all North American consumer product safety regulations and entitles the purchaser to product support assistance"
     },
     {
-      "id": 43,
+      "id": 13,
       "image1": "https://m.media-amazon.com/images/I/71XbyWCth1L._AC_SX425_.jpg",
       "image2": "https://m.media-amazon.com/images/I/7172T4FuXmL._AC_SX425_.jpg",
       "name": "nanoblock - Pirate Ship DX, Pirates, nanoblock Advanced Hobby Series Building Kit",
