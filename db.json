@@ -11,7 +11,7 @@
       "brand": "Nanoblock",
       "theme": "Anime",
       "material": "Plastic",
-      "color": "Pikachu",
+      "color": "Pikachu" || "pikachu",
       "type": "Pikachu",
       "desc": "Pikachu From Nanoblock'S Pokemon Collection Series Stands Approximately 4,5 cm Tall And Has 120 Pieces. Difficulty: Based On A Scale From 1 To 5. 1 Being The Easiest And 5 Being Most Advanced. This Model Is Based At A Level 2, For Ages 8+"
     },
