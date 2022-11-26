@@ -26,7 +26,7 @@
       "brand": "Nanoblock",
       "theme": "Anime",
       "material": "Plastic",
-      "color": "Orange",
+      "color": "Charmander",
       "type": "Charmander",
       "desc": "Charmander from Nanoblock's Pokemon Collection series stands approximately 4 cm tall and has 110 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 8+"
     },
@@ -88,7 +88,7 @@
       "material": "Plastic",
       "color": "Marlin",
       "type": "fish",
-      "desc1": "Marlin from Nanoblock's Collection series stands approximately 14 cm tall and has 190 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 8+"
+      "desc": "Marlin from Nanoblock's Collection series stands approximately 14 cm tall and has 190 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 8+"
     },
     {
       "id": 7,
@@ -163,7 +163,7 @@
       "material": "Plastic",
       "color": "Eiffel Tower",
       "type": "Eiffel",
-      "desc1": "Eiffel Tower Deluxe Edition from Nanoblock's Advanced Hobby series stands approximately 9,6 cm tall and has 2500 pieces. Difficulty: Based on a scale from 1 to 5: 1 being the easiest and 5 being most advanced, this model is based at a Level 4 and is for ages 15+. This kit features all the details one would expect and also include detailed instructions"
+      "desc": "Eiffel Tower Deluxe Edition from Nanoblock's Advanced Hobby series stands approximately 9,6 cm tall and has 2500 pieces. Difficulty: Based on a scale from 1 to 5: 1 being the easiest and 5 being most advanced, this model is based at a Level 4 and is for ages 15+. This kit features all the details one would expect and also include detailed instructions"
     },
     {
       "id": 12,
