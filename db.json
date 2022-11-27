@@ -1,5 +1,5 @@
 {
-  "pokemons": [
+  "toys": [
     {
       "id": 1,
       "image1": "https://m.media-amazon.com/images/I/51NjtYpTpDL._AC_CR0%2C0%2C0%2C0_SX410_SY308_.jpg",
@@ -13,6 +13,7 @@
       "material": "Plastic",
       "color": "Pikachu",
       "type": "Pokemon",
+      "part": "Pokemons",
       "desc": "Pikachu From Nanoblock'S Pokemon Collection Series Stands Approximately 4,5 cm Tall And Has 120 Pieces. Difficulty: Based On A Scale From 1 To 5. 1 Being The Easiest And 5 Being Most Advanced. This Model Is Based At A Level 2, For Ages 8+"
     },
     {
@@ -28,6 +29,7 @@
       "material": "Plastic",
       "color": "Charmander",
       "type": "Pokemon",
+      "part": "Pokemons",
       "desc": "Charmander from Nanoblock's Pokemon Collection series stands approximately 4 cm tall and has 110 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 8+"
     },
     {
@@ -43,6 +45,7 @@
       "material": "Plastic",
       "color": "Bulbasaur",
       "type": "Pokemon",
+      "part": "Pokemons",
       "desc": "Nanoblocks are a superior building experience with greater challenge, sophistication and detail than any other construction set. The Smaller the Brick the Better the Build; Bulbasaur sets come with detailed step by step instructions, for ages 8+"
     },
     {
@@ -58,6 +61,7 @@
       "material": "Plastic",
       "color": "Squirtle",
       "type": "Pokemon",
+      "part": "Pokemons",
       "desc": "Pokemon appeared to nano block and Squirtle came over 120 pieces!. Pokemon Character Zenigame."
     },
     {
@@ -73,10 +77,9 @@
       "material": "Plastic",
       "color": "Eevee",
       "type": "Pokemon",
+      "part": "Pokemons",
       "desc": "Build your favorite Pokemon character in astonishing detail with Nanoblocks, the original micro-sized building block, collect all 13. The Smaller the Brick the Better the Build; Eevee sets come with detailed step by step instructions, for ages 8+"
-    }
-  ],
-  "animals": [
+    },
     {
       "id": 6,
       "image1": "https://m.media-amazon.com/images/I/51+73kXpt8L._AC_SX679_.jpg",
@@ -90,6 +93,7 @@
       "material": "Plastic",
       "color": "Great White Shark",
       "type": "Animal",
+      "part": "Animals",
       "desc": "Great white shark from Nanoblock's Collection series stands approximately 4,9 cm tall and has 130 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
     },
     {
@@ -105,6 +109,7 @@
       "material": "Plastic",
       "color": "Polar Bear",
       "type": "Animal",
+      "part": "Animals",
       "desc": "Polar bear from Nanoblock's Collection series stands approximately 10 cm tall and has 220 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
     },
     {
@@ -120,6 +125,7 @@
       "material": "Plastic",
       "color": "Koala",
       "type": "Animal",
+      "part": "Animals",
       "desc": "Koala from Nanoblock's Collection series stands approximately 5,6 cm tall and has 145 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 2, for ages 15+"
     },
     {
@@ -135,10 +141,9 @@
       "material": "Plastic",
       "color": "Fishbowl Cat",
       "type": "Animal",
+      "part": "Animals",
       "desc": "Fishbowl Cat from Nanoblock's Mini Collection series stands approximately 5,5 cm tall and has 190 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 3, for ages 15+"
-    }
-  ],
-  "specials": [
+    },
     {
       "id": 10,
       "image1": "https://m.media-amazon.com/images/I/61QRvcOrBjL._AC_SX679_.jpg",
@@ -152,6 +157,7 @@
       "material": "Plastic",
       "color": "Eiffel Tower",
       "type": "Building",
+      "part": "Specials",
       "desc": "Eiffel Tower Deluxe Edition from Nanoblock's Advanced Hobby series stands approximately 9,6 cm tall and has 2500 pieces. Difficulty: Based on a scale from 1 to 5: 1 being the easiest and 5 being most advanced, this model is based at a Level 4 and is for ages 15+. This kit features all the details one would expect and also include detailed instructions"
     },
     {
@@ -167,6 +173,7 @@
       "material": "Plastic",
       "color": "Bonsai",
       "type": "Plant",
+      "part": "Specials",
       "desc": "Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This Bonsai model is based at a Level 5, for ages 15+. Only product with affixed official Bluefin label has been thoroughly tested for safety and meets all North American consumer product safety regulations and entitles the purchaser to product support assistance"
     },
     {
@@ -182,6 +189,7 @@
       "material": "Plastic",
       "color": "Pirate Ship",
       "type": "Building",
+      "part": "Specials",
       "desc": "Pirate Ship DX from Nanoblock's Advanced Hobby series stands approximately 23,5 cm tall and has 3200 pieces. Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This model is based at a Level 5, for ages 15+"
     },
     {
@@ -197,6 +205,7 @@
       "material": "Plastic",
       "color": "Tower Bridge",
       "type": "Building",
+      "part": "Specials",
       "desc": "Difficulty: Based on a scale from 1 to 5. 1 being the easiest and 5 being most advanced. This tower bridge model is based at a Level 5, for ages 15+. Only product with affixed official Bluefin label has been thoroughly tested for safety and meets all North American consumer product safety regulations and entitles the purchaser to product support assistance"
     }
   ]
